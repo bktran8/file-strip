@@ -1,2 +1,3 @@
 # file-strip
-strips files of special characters
+- strips file names of special characters
+- creates and populate specific form with file characteristics
